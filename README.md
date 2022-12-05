@@ -16,4 +16,4 @@
 
 ## Coordonnées
 
-<a href="linkedin.com/in/clément-chambard-0ab85a259"> <img src= "https://user-images.githubusercontent.com/98128042/177056614-f2a4065e-c199-4070-b243-eaa20481008b.png"  width="40" height="40"></a>
+<a href="https://www.linkedin.com/in/clément-chambard-0ab85a259"> <img src= "https://user-images.githubusercontent.com/98128042/177056614-f2a4065e-c199-4070-b243-eaa20481008b.png"  width="40" height="40"></a>
