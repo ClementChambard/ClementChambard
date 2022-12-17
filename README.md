@@ -1,18 +1,18 @@
 # Bonjour, je suis Clément Chambard
 
-* Je suis actuellement étudiant en 4ème année (bac + 4) à l'école polytechnique universitaire de l'université paris-saclay, spécialité informatique.
+* Je suis actuellement étudiant en 4ème année (bac + 4) à l'école polytechnique universitaire de l'université Paris-Saclay, spécialité informatique.
 
 * J'y apprends de nombreux concepts concernant l'informatique et l'ingénierie en général, mais je participe aussi à des projets, seul ou en équipe, dans des domaines variés.
 
-* En dehors de l'école, j'aime me former et acquiérir de nouvelles compétences dans des dommaines qui m'intéressent, comme la programmation graphique et le développement de jeux vidéos.
+* En dehors de l'école, j'aime me former et acquérir de nouvelles compétences dans des domaines qui m'intéressent, comme la programmation graphique et le développement de jeux vidéos.
 
 ## Langages
 
-* C/C++ , nottament avec OpenGL et SDL2 pour le développement de jeux, en train d'apprendre Vulkan.
+* C/C++ , notamment avec OpenGL et SDL2 pour le développement de jeux, en train d'apprendre Vulkan.
 * Python : plusieurs petit projets et stage en laboratoire.
-* Java : de bonnes connaissances théorique, peu d'applications pratiques.
+* Java : de bonnes connaissances théoriques, peu d'applications pratiques.
 * C# .NET : utilisation lors d'un stage d'immersion, création d'une API GraphQL
-* Langages du web (HTML, CSS, JavaScript) et un peu d'expérience avec le MERN stack.
+* Langages du web (HTML, CSS, JavaScript) et une petite expérience avec le MERN stack.
 
 ## Coordonnées
 
