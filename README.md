@@ -1,7 +1,5 @@
 # Bonjour, je suis Clément Chambard
 
-* Je suis diplômé depuis septembre de l'école polytechnique universitaire de l'université Paris-Saclay, spécialité informatique.
-
 * J'aime me former et acquérir de nouvelles compétences dans des domaines qui m'intéressent, comme la programmation graphique et le développement de jeux vidéos.
 
 ## Langages
